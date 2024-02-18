@@ -20,15 +20,11 @@ How to Use
 
 3. View the **home.md** Markdown file in your newly created repository and copy it's URL
 
-4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
+4. Go to https://docsify-this.net/?advanced=true (the Docsify-This Advanced Web Page Builder) and paste the copied URL into the **Markdown File URL** field
 
 5. Choose the Page Layout with the Docsify Sidebar
 
-5. Tap the **Show More Page Appearance Options »** link
-
-6. Scroll down the page and tap the **Advanced Web Page Builder Options** checkbox
-
-7. Scroll down the page and choose to display the Docsify Custom Files **Sidebar** and **Navbar**
+6. Scroll down the page and choose to display the Docsify Custom Files **Sidebar** and **Navbar**
 
 7. Tap the **View as Standalone Page** button to view your **home.md** Markdown file as a web page 
 
