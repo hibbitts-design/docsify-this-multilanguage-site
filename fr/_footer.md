@@ -1,4 +1,4 @@
-:memo: [Proposer une modification à ce site](https://github.com/paulhibbitts/docsify-this-multilanguage-site)
+:memo: [Proposer une modification à ce site](https://github.com/hibbitts-design/docsify-this-multilanguage-site/tree/main/fr)
 
 ---
 
