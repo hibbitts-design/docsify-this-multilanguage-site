@@ -26,7 +26,7 @@ How to Use
 
 6. Scroll down the page to the **Docsify Custom Files** section and choose to display the Docsify Custom Files **Sidebar** and **Navbar**
 
-7. Tap the **View as Standalone Page** button to view your **home.md** Markdown file as a web page 
+7. Tap the **Publish as a Standalone Web Page** button to view your **home.md** Markdown file as a web page 
 
 To add or change languages supported, each language requires the following:
 * Default language Markdown files within the `docs` folder 
