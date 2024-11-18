@@ -14,25 +14,29 @@ _Figure 1. Docsify-This Multi-language Site Template. Explore the resulting stan
 How to Use
 ---
 
-1. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
+1. Sign in to [GitHub](https://github.com), or create an account if you don’t already have one.
 
-2. Choose the name for your new repository to contain the files and then tap **Create repository**
+2. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
 
-3. View the **home.md** Markdown file in your newly created repository and copy it's URL
+3. Choose the name for your new repository to contain the files and then tap **Create repository**
 
-4. Go to https://docsify-this.net/?advanced=true (the Docsify-This Advanced Web Page Builder) and paste the copied URL into the **Markdown File URL** field
+4. View the **home.md** Markdown file in your newly created repository and copy it's URL
 
-5. Choose the Page Layout with the Docsify Sidebar
+5. Go to https://paulhibbitts.github.io/test-docsify-this/?advanced=true (the Docsify-This Advanced Web Page Builder) and paste the copied URL into the **Markdown File URL** field
 
-6. Scroll down the page to the **Docsify Custom Files** section and choose to display the Docsify Custom Files **Sidebar** and **Navbar**
+6. Choose the Page Layout with the Docsify Sidebar
 
-7. Tap the **Publish as a Web Page** button to view your **home.md** Markdown file as a web page 
+7. Scroll down the page to the **Docsify Custom Files** section and choose to display the Docsify Custom Files **Sidebar** and **Navbar**
+
+8. Tap the **Publish as a Standalone Web Page** button to view your **home.md** Markdown file as a web page 
 
 To add or change languages supported, each language requires the following:
 * Default language Markdown files within the `docs` folder 
 * Each possible language supported has a subfolder within the  `docs` folder
 * If an `images` folder is used, then for each language supported the same (localized) images need to be present
 * The Docsify custom sidebar and navbar for each language need to be updated to point to the appropriate Markdown files for that language 
+
+To edit a file in GitHub, tap the **Pencil icon** (Edit this file) in the upper-right when viewing the file, make your changes, and then tap the **Commit changes...** button to save those changes.  
 
 Docsify-This Examples
 ---
