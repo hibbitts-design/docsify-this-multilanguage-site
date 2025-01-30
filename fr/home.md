@@ -1,4 +1,4 @@
-# Mon espace **Open Publishing**
+# Mon espace Open Publishing
 
 ## Créer, partager et collaborer
 
